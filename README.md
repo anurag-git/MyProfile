@@ -30,6 +30,9 @@
 #### My Blockchain Projects
 - [notgiving.eth](https://github.com/notgiving)
 
+#### My Reading List
+- [Smart Contract Security](https://github.com/anurag-git/smart_security_review)
+
 
 ## MyPrograms
 - [My C/C++ Programs](https://github.com/anurag-git/My_Programs)
