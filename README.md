@@ -27,6 +27,9 @@
 - [Consensys India Developer Program](https://github.com/anurag-git/india-training)
 - [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
 
+#### My Blockchain Projects
+- [notgiving.eth](https://github.com/notgiving)
+
 ## My Open Source Contributions
 
 #### Solidity Compiler (https://github.com/ethereum/solidity/)
