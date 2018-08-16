@@ -1,6 +1,6 @@
 # My Work</p>
 
-| [Ethereum](#ethereum) | [My Open Source Contributions](#opensource) | [C++ Programs](#C++)
+| [Ethereum](#ethereum) | [OpenSource](#opensource) | [MyPrograms](#myprograms)
 
 
 ## Ethereum
@@ -30,7 +30,11 @@
 #### My Blockchain Projects
 - [notgiving.eth](https://github.com/notgiving)
 
-## My Open Source Contributions
+
+## MyPrograms
+- [My C/C++ Programs](https://github.com/anurag-git/My_Programs)
+
+## OpenSource
 
 #### Solidity Compiler (https://github.com/ethereum/solidity/)
 - [Issues Working](https://github.com/ethereum/solidity/pulls/anurag-git)
@@ -39,5 +43,3 @@
 #### Lesspod (https://github.com/Rajan/lesspod/)
 - [My Contributions](https://github.com/Rajan/lesspod/commits?author=anurag-git)
 
-#### C++
-- [My Programs] (https://github.com/anurag-git/My_Programs)
