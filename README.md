@@ -25,6 +25,7 @@
 
 #### My Trainings
 - [Consensys India Developer Program](https://github.com/anurag-git/india-training)
+- [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
 
 ## My Open Source Contributions
 
