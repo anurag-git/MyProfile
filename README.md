@@ -40,7 +40,7 @@
 ## OpenSource
 
 #### Solidity Compiler (https://github.com/ethereum/solidity/)
-- [Issues Working](https://github.com/ethereum/solidity/pulls/anurag-git)
+- [My Contributions](https://github.com/ethereum/solidity/pulls/anurag-git)
 
 
 #### Lesspod (https://github.com/Rajan/lesspod/)
