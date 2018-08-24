@@ -1,7 +1,19 @@
-# My Work</p>
+# My Profile</p>
 
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [OpenSource](#opensource)
 
+
+## Blockchain
+
+#### My Trainings
+- [IBM Blockchain Essentials](https://www.youracclaim.com/badges/4cc517c5-3183-4015-8566-0ae5588ed14c/)
+- [IBM Blockchain Foundation Developer](https://www.youracclaim.com/badges/59a38c5e-e914-4459-bd08-83f98a54d0a1)
+- [Consensys India Developer Program](https://github.com/anurag-git/india-training)
+- [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
+
+#### My Reading List
+- [Smart Contract Security](https://github.com/anurag-git/smart_security_review)
+- [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices)
 
 ## Ethereum
 
@@ -20,23 +32,11 @@
 - [Solidity Golf challenge](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Solidity_Golf_Challenge)
 - [Quote Registry Contract](https://github.com/anurag-git/My-Solidity-Programs/tree/master/QuoteRegistry)
 
-#### My Ethereum DApps
+#### My DApps
 - [Auction DApp](https://github.com/anurag-git/Auction-Dapp)
 
-#### My Blockchain Projects
+#### My Projects
 - [notgiving.eth](https://github.com/notgiving)
-
-## Blockchain
-
-#### My Trainings
-- [IBM Blockchain Essentials](https://www.youracclaim.com/badges/4cc517c5-3183-4015-8566-0ae5588ed14c/)
-- [IBM Blockchain Foundation Developer](https://www.youracclaim.com/badges/59a38c5e-e914-4459-bd08-83f98a54d0a1)
-- [Consensys India Developer Program](https://github.com/anurag-git/india-training)
-- [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
-
-
-#### My Reading List
-- [Smart Contract Security](https://github.com/anurag-git/smart_security_review)
 
 ## OpenSource
 
