@@ -1,6 +1,6 @@
 # My Work</p>
 
-| [Ethereum](#ethereum) | [OpenSource](#opensource) | [MyPrograms](#myprograms)
+| [Blockchain](#blockchain) | [Ethereum](#ethereum) | [OpenSource](#opensource)
 
 
 ## Ethereum
@@ -23,19 +23,20 @@
 #### My Ethereum DApps
 - [Auction DApp](https://github.com/anurag-git/Auction-Dapp)
 
-#### My Trainings
-- [Consensys India Developer Program](https://github.com/anurag-git/india-training)
-- [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
-
 #### My Blockchain Projects
 - [notgiving.eth](https://github.com/notgiving)
 
+## Blockchain
+
+#### My Trainings
+- [IBM Blockchain Essentials](https://www.youracclaim.com/badges/4cc517c5-3183-4015-8566-0ae5588ed14c/)
+- [IBM Blockchain Foundation Developer](https://www.youracclaim.com/badges/59a38c5e-e914-4459-bd08-83f98a54d0a1)
+- [Consensys India Developer Program](https://github.com/anurag-git/india-training)
+- [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
+
+
 #### My Reading List
 - [Smart Contract Security](https://github.com/anurag-git/smart_security_review)
-
-
-## MyPrograms
-- [My C/C++ Programs](https://github.com/anurag-git/My_Programs)
 
 ## OpenSource
 
