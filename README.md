@@ -6,7 +6,7 @@
 ## Blockchain
 
 #### My Trainings
-- [IBM Blockchain Essentials](https://www.youracclaim.com/badges/4cc517c5-3183-4015-8566-0ae5588ed14c/)
+- [IBM Blockchain Essentials](https://www.youracclaim.com/badges/4cc517c5-3183-4015-8566-0ae5588ed14c)
 - [IBM Blockchain Foundation Developer](https://www.youracclaim.com/badges/59a38c5e-e914-4459-bd08-83f98a54d0a1)
 - [Consensys India Developer Program](https://github.com/anurag-git/india-training)
 - [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
@@ -40,10 +40,10 @@
 
 ## OpenSource
 
-#### Solidity Compiler (https://github.com/ethereum/solidity/)
+#### Solidity Compiler(https://github.com/ethereum/solidity)
 - [My Contributions](https://github.com/ethereum/solidity/pulls/anurag-git)
 
 
-#### Lesspod (https://github.com/Rajan/lesspod/)
+#### Lesspod(https://github.com/Rajan/lesspod)
 - [My Contributions](https://github.com/Rajan/lesspod/commits?author=anurag-git)
 
