@@ -41,10 +41,10 @@
 ## OpenSource
 
 #### Solidity Compiler(https://github.com/ethereum/solidity)
-- [My Contributions](https://github.com/ethereum/solidity/pulls/anurag-git)
+- [My Contributions](https://github.com/ethereum/solidity/pulls?q=is%3Apr+author%3Aanurag-git+is%3Aclosed)
 
 #### Sūrya, The Sun God: A Solidity Inspector(https://github.com/ConsenSys/surya)
-- [My Contributions](https://github.com/ConsenSys/surya/pulls/anurag-git)
+- [My Contributions](https://github.com/ConsenSys/surya/pulls?q=is%3Apr+author%3Aanurag-git+is%3Aclosed)
 
 #### Lesspod(https://github.com/Rajan/lesspod)
 - [My Contributions](https://github.com/Rajan/lesspod/commits?author=anurag-git)
