@@ -24,6 +24,7 @@
 - [Solidity Baby Steps](https://github.com/anurag-git/solidity-baby-steps)
 
 #### My Solidity Contracts
+- [MultiSig Wallet](https://github.com/anurag-git/My-Solidity-Programs/tree/master/MultiSigWallet)
 - [Hello World](https://github.com/anurag-git/My-Solidity-Programs/tree/master/HelloWorld)
 - [Lottery](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Lottery)
 - [My ERC20 Token](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Tokens)
