@@ -24,7 +24,6 @@
 - [Solidity Baby Steps](https://github.com/anurag-git/solidity-baby-steps)
 
 #### My Solidity Contracts
-- [MultiSig Wallet](https://github.com/anurag-git/My-Solidity-Programs/tree/master/MultiSigWallet)
 - [Hello World](https://github.com/anurag-git/My-Solidity-Programs/tree/master/HelloWorld)
 - [Lottery](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Lottery)
 - [My ERC20 Token](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Tokens)
@@ -32,6 +31,7 @@
 - [String Utlity](https://github.com/anurag-git/My-Solidity-Programs/tree/master/strings)
 - [Solidity Golf challenge](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Solidity_Golf_Challenge)
 - [Quote Registry Contract](https://github.com/anurag-git/My-Solidity-Programs/tree/master/QuoteRegistry)
+- [MultiSig Wallet](https://github.com/anurag-git/My-Solidity-Programs/tree/master/MultiSigWallet)
 - [Shipment](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Shipment)
 
 #### My DApps
