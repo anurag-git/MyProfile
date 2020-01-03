@@ -36,6 +36,7 @@
 - [Quote Registry Contract](https://github.com/anurag-git/My-Solidity-Programs/tree/master/QuoteRegistry)
 - [MultiSig Wallet](https://github.com/anurag-git/My-Solidity-Programs/tree/master/MultiSigWallet)
 - [Shipment](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Shipment)
+- [Fraud Detection](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Fraud-Detection)
 
 #### My DApps
 - [Auction DApp](https://github.com/anurag-git/Auction-Dapp)
