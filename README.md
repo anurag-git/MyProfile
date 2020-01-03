@@ -11,6 +11,9 @@
 - [Consensys India Developer Program](https://github.com/anurag-git/india-training)
 - [ConsenSys India Homework](https://github.com/anurag-git/Consensys-India)
 
+#### My Presentations
+- [Decentralized Storage](https://github.com/anurag-git/My-Presentations/blob/master/Decentralized-Storage.pdf)
+
 #### My Reading List
 - [Smart Contract Security](https://github.com/anurag-git/smart_security_review)
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices)
