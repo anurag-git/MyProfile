@@ -47,7 +47,7 @@
 ## OpenSourceContribution
 
 #### Solidity Compiler(https://github.com/ethereum/solidity)
-- [My Contributions](https://github.com/anurag-git/solidity/commits?author=anurag-git)
+- [My Contributions](https://github.com/ethereum/solidity/commits?author=anurag-git)
 
 #### Sūrya, The Sun God: A Solidity Inspector(https://github.com/ConsenSys/surya)
 - [My Contributions](https://github.com/ConsenSys/surya/pulls?q=is%3Apr+author%3Aanurag-git+is%3Aclosed)
