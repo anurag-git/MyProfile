@@ -1,6 +1,6 @@
 # My Profile</p>
 
-| [Blockchain](#blockchain) | [Ethereum](#ethereum) | [OpenSourceContribution](#opensourcecontribution) | [MyCode](#mycode)
+| [Blockchain](#blockchain) | [AI/ML](#aiml) | [OpenSourceContribution](#opensourcecontribution)
 
 
 ## Blockchain
@@ -18,15 +18,15 @@
 - [Smart Contract Security](https://github.com/anurag-git/smart_security_review)
 - [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices)
 
-## Ethereum
+#### Ethereum
 
-#### My Solidity Learnings
+###### My Solidity Learnings
 - [Loose collection of Solidity example code](https://github.com/anurag-git/solidity-examples)
 - [Basic Solidity Examples](https://github.com/anurag-git/learning-solidity)
 - [Basic Solidity Programs](https://github.com/anurag-git/solidity-by-example)
 - [Solidity Baby Steps](https://github.com/anurag-git/solidity-baby-steps)
 
-#### My Solidity Contracts
+###### My Solidity Contracts
 - [Hello World](https://github.com/anurag-git/My-Solidity-Programs/tree/master/HelloWorld)
 - [Lottery](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Lottery)
 - [My ERC20 Token](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Tokens)
@@ -38,21 +38,26 @@
 - [Shipment](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Shipment)
 - [Fraud Detection](https://github.com/anurag-git/My-Solidity-Programs/tree/master/Fraud-Detection)
 
-#### My DApps
+###### My DApps
 - [Auction DApp](https://github.com/anurag-git/Auction-Dapp)
 
-#### My Projects
+###### My Projects
 - [notgiving.eth](https://github.com/notgiving)
+
+## AIML
+
+#### Chatbots
+- [Langchain based chatbots](https://github.com/anurag-git/langchain-chatbots)
 
 ## OpenSourceContribution
 
-#### Solidity Compiler(https://github.com/ethereum/solidity)
+#### [Solidity Compiler](https://github.com/ethereum/solidity)
 - [My Contributions](https://github.com/ethereum/solidity/commits?author=anurag-git)
 
-#### Sūrya, The Sun God: A Solidity Inspector(https://github.com/ConsenSys/surya)
+#### [Sūrya, The Sun God: A Solidity Inspector](https://github.com/ConsenSys/surya)
 - [My Contributions](https://github.com/ConsenSys/surya/pulls?q=is%3Apr+author%3Aanurag-git+is%3Aclosed)
 
-#### Lesspod(https://github.com/Rajan/lesspod)
+#### [Lesspod](https://github.com/Rajan/lesspod)
 - [My Contributions](https://github.com/Rajan/lesspod/commits?author=anurag-git)
 
 ## MyCode
